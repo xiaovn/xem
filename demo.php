@@ -7,4 +7,5 @@
  * Time: 3:48 PM
  * Email: kenzaki@xiao.vn
  */
+echo "a";
 ?>
